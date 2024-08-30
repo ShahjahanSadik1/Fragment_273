@@ -73,7 +73,7 @@ public class Sacend_fragment extends Fragment {
             }
         });
 
-        //edit_text edit_text edit_text edit_text edit_text edit_text edit_text edit_text
+        //edit_text edit_text edit_text edit_text edit_text edit_text edit_text
 
 
 
